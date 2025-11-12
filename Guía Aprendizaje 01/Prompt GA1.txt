@@ -1,0 +1,229 @@
+1. Ideas Proyecto
+Hola, soy un estudiante de una formación tecnológica llamada Análisis y Desarrollo de Software (rol). 
+La formación tiene una estrategia de aprendizaje denominada ABP Aprendizaje Basado en Proyectos. A lo largo de la formación debo llevar a cabo un proyecto en el que se apliquen todos los conocimientos que voy adquiriendo desde la fase de análisis hasta la fase de evaluación. El proyecto debe brindar una solución a una empresa MiPyME para que esta pueda mejorar sus procesos a través de una solución tecnológica como una app móvil, aplicación Web, E-commerce, Sistema de información, etc.(contexto)
+Lo primero en lo que quisiera que me ayudaras es a identificar un proyecto que pueda proponer para el desarrollo de la formación, que sea un proyecto significativo, realista, y con potencial de crecimiento. (tarea)
+
+2. Revisión de ideas propuestas.
+
+3. Elección y ampliación de propuesta
+Me gusta la idea 1, pienso que puede aplicar a muchos comercios, qué otros servicios (funciones) se podrían agregar a esta solución? Teniendo en cuenta el ciclo de vida de desarrollo del Software y niveles de desarrollo Básico - Intermedio y Avanzado.
+
+4. Herramienta de asesoría
+Me parece maravillosa la idea y la forma de evolución, ahora la idea es mantener este chat como apoyo al desarrollo del proyecto. 
+Iré indicando las actividades propuestas por la formación, tanto de conocimiento, desempeño y producto para solicitar tu ayuda y asesoría. 
+
+AA01 - EV02
+Identificación de procesos organizacionales.
+
+Teniendo en cuenta las características del software a construir y las diferentes fuentes de información existentes identificar el conjunto de elementos que intervienen (relaciones, actores responsables) en este aplicando la TGS (Teoría General de Sistemas). 
+Entiendo que ahora debo identificar los procesos que se pueden llevar a cabo en un restaurante. Para esto debo identificar las áreas de trabajo, los actores y las funciones que estos realizan, y que se relacionan con los objetivos y requerimiento a cubrir de la aplicación a desarrollar.
+Formato de salida: un documento Word, con portada, tabla de contenido y titulado: : documento de identificación de elementos.
+
+AA01 - EV03
+Mapa de procesos del software a construir 
+
+Tomando como base la identificación de elementos realizada en la evidencia anterior, realizar el mapa de procesos del software.  
+
+Ahora debo presentar en formato imagen el mapa de procesos en el que se evidencien las entradas, procesos y salidas del proyecto Sistema de Gestión de Pedidos para Restaurantes. El mapa de procesos debe venir acompañado de una explicación clara de cómo está conformado.
+Me indicas el orden de los elementos de entrada, proceso y salida y me recomiendas herramientas online gratuitas para elaboración de mapas de proceso
+
+AA03 - EV01
+Instrumento de recolección de información
+
+Teniendo en cuenta las características del proyecto que venimos trabajando Sistema de Gestión de Pedidos para Restaurantes, a continuación presento la siguiente actividad: Seleccione una de las técnicas utilizadas para la licitación de requisitos y realice el diseño de un instrumento de recolección de información. ¿Cuál consideras la mejor opción de instrumento para hacer la recolección de información de acuerdo a la naturaleza y finalidad del proyecto?
+
+
+Si, por favor redactar un mínimo de 5 preguntas especificas por rol que se relacionen con las funciones que podría cubrir el sistemas de gestión de pedidos del restaurante. Agregar al documento: una portada, introducción, objetivo y alcance.
+
+
+AA03 - EV02
+
+Herramientas para captura de requisitos
+
+Esta es la siguiente actividad solicitada:
+
+Teniendo en cuenta las características del software a construir seleccione una de las herramientas para captura de requisitos y defina sus funcionalidades en un documento.
+
+Elementos a tener en cuenta en el documento de requisitos: 
+Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, objetivo, preguntas claras y alcance 
+Seleccione una de las herramientas para captura de requisitos mencionada en el componente (diagramas de casos de uso, historias de usuario, storyboard) para realizar la formulación de los requisitos. 
+Utilice una de las herramientas o plantillas (starUml, plantilla historias de usuario) que se describieron en el componente formativo. 
+
+De acuerdo a las herramientas sugeridas: diagramas de casos de uso, historias de usuario, storyboard y a las características del proyecto, cuál sería la herramienta más indicada para utilizar?
+
+Una vez identificadas las ventajas y principales características de las herramientas, he dedicido elegir la herramienta historias de usuario ya que pueden brindar facilidad de identificación de los requisitos del sistema. 
+Adelante, prepara el documento historias de usuario del proyecto Sistema de Gestión de Pedidos para Restaurantes con las siguientes condiciones: 
+1. El documento debe tener Portada, Introducción, Conclusiones y referencias.
+2. Presentar las historias de usuario en un formato como el empleado en la imagen de la siguiente dirección web: https://www.pmoinformatica.com/2012/10/plantillas-scrum-historias-de-usuario.html
+3. Por cada rol se deben presentar un mínimo de 5 historias de usuario.
+
+
+AA3-EV03
+
+Formulario de recolección de información
+
+Descripción actividad: Teniendo en cuenta las características del software a construir y el instrumento Entrevista formulado en anterior actividad, se debe presentar el levantamiento de información realizado y hacer un análisis con la información obtenida.
+
+Características de la entrega:
+- Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, tabla de contenido, referencias de consulta, las técnicas utilizadas para el levantamiento de requisitos, y el análisis arrojado después de aplicadas las técnicas.
+- Respecto a la técnica deberá adjuntar el formato o la estructura de la técnica realizada; si es entrevista, el guion utilizado; si es encuesta, las preguntas realizadas, etc.
+- Respecto al análisis se deberá realizar un informe de los resultados de la técnica aplicada.
+
+Tener en cuenta las siguientes instrucciones:
+
+ 1. Para el desarrollo de la actividad vas a simular la aplicación del instrumento Entrevista a empleados de un restaurante: Administrador, Cocinero, Mesero/Cajero.
+2. Dar respuesta a todas las preguntas por rol (generales y específicas) para ser consecuente con el formato de Entrevista ya presentado como evidencia.
+
+Ejemplo de redacción en respuestas:
+	
+• ¿Desea tener acceso a estadísticas o reportes visuales del negocio? ¿Cuáles serían útiles? 
+
+Sí, me gustaría tener reportes visuales sobre ventas diarias, productos más vendidos, frecuencia de pedidos por día y semana, y estadísticas sobre el tiempo promedio de atención al cliente.
+
+3. Las respuestas deben ser coherentes con las preguntas y brindar información relevante para el desarrollo del proyecto Sistema de Gestión de Pedidos para Restaurantes.
+
+4. Realizar un análisis basado en las respuestas obtenidas que se asocie con el objetivo del proyecto.El análisis debe presentar:
+- Problemáticas comunes
+- Requerimientos generales
+- Funcionalidades clave a desarrollar
+
+Nota: a continuación copio las preguntas del instrumento Entrevista:
+
+Datos del entrevistado:
+Nombre: ________________________
+Cargo: __________________________
+Tiempo en el cargo:______________________
+Fecha de entrevista:____________________
+
+Preguntas generales (para todos los actores)
+•	¿Cuáles son sus funciones principales dentro del restaurante?
+•	¿Qué herramientas utiliza actualmente para gestionar los pedidos?
+•	¿Qué problemas ha identificado en el proceso de atención al cliente o toma de pedidos?
+•	¿Cuáles son los errores más comunes en el proceso actual?
+•	¿Qué información considera fundamental tener en un sistema de gestión?
+•	¿Qué tareas considera que podrían ser automatizadas?
+👨‍🍳 Para Cocina
+•	¿Cómo recibe actualmente los pedidos de los meseros?
+•	¿Ha habido confusiones o errores al interpretar pedidos? ¿Por qué cree que ocurren?
+•	¿Cómo prioriza los pedidos cuando hay muchos al mismo tiempo?
+•	¿Qué tan fácil es rastrear un pedido que ya fue preparado?
+•	¿Considera útil tener una pantalla o sistema que le muestre los pedidos pendientes en orden?
+🧑‍💼 Para Administrador/Gerente
+•	¿Cómo realiza actualmente el seguimiento de las ventas diarias?
+•	¿Utiliza algún tipo de reporte para tomar decisiones administrativas?
+•	¿Cómo controla el inventario de insumos o productos?
+•	¿Qué funcionalidades considera necesarias en un sistema de gestión para mejorar la operación del restaurante?
+•	¿Desea tener acceso a estadísticas o reportes visuales del negocio? ¿Cuáles serían útiles?
+🧑‍💻 Para Meseros o Cajeros
+•	¿Cómo se toman los pedidos de los clientes actualmente (papel, verbal, app, etc.)?
+•	¿Ha tenido dificultades para comunicar los pedidos a cocina? ¿Cuáles?
+•	¿Cómo se hace el cobro a los clientes y qué pasos deben seguir?
+•	¿Qué tan rápido es el proceso actual de atención al cliente en horas pico?
+•	¿Qué elementos del proceso desearía que fueran más ágiles o digitales?
+
+Si, requieres información adicional, pregunta.
+
+AA4-EV01
+
+Siguiente Actividad:
+Título: Lista de Requisitos funcionales y no funcionales
+Descripción: Construir el documento de requisitos que especifique los requisitos funcionales y no funcionales teniendo en cuenta las características del software a realizar SISTEMA DE GESTIÓN DE PEDIDOS PARA RESTAURANTES.
+Tener en cuenta: Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, y la lista de: 
+-Requisitos funcionales.  
+-Requisitos no funcionales. 
+
+El documento de momento solo se centrará en la lista de  los requisitos funcionales y no funcionales, ya en la siguiente actividad estaremos desarrollando el documento IEEE830.
+ 
+Es importante que te caracterices como un profesional en la especificación de requerimientos de software y que los requisitos se listen y describan de forma clara y pertinente con el proyecto en desarrollo.
+
+Sí tienes alguna duda, házmela saber.
+
+
+AA4 - EV02
+
+Bien, vamos a seguir con la construcción del documento IEEE830. Para ello se nos solicita tener en cuenta los siguientes aspectos: Teniendo en cuenta los requisitos funcionales y no funcionales anteriormente definidos para el proyecto SISTEMA DE GESTIÓN DE PEDIDOS PARA RESTAURANTES ahora se deberá construir el documento de especificación de requisitos siguiendo el estándar IEEE830,y mantener la siguiente estructura: 
+
+1. Introducción 
+1.1 Propósito 
+1.2 Ámbito del Sistema. 
+1.3 Definiciones, Acrónimos y Abreviaturas. 
+1.4 Referencias 1.5 Visión General del Documento 2. Descripción General 
+2.1 Perspectiva del Producto 
+2.2 Funciones del Producto 
+2.3 Características de los Usuarios 
+2.4 Restricciones 
+2.5 Suposiciones y dependencias 
+2.6 Requerimientos futuros 
+3. Requerimientos Específicos 
+3.1 Interfaz 
+3.2 Requisitos Funcionales (incluir bajo cada requisito la historia de usuario en un formato de tabla) 
+3.3 Requerimientos No Funcionales 
+3.4 Otros Requisitos 
+4. Apéndices 
+
+Nota: Incluir tabla de contenido en el documento
+
+
+Adicionalmente para cada requisito funcional se debe describir usando la estructura de historias de usuario con los siguientes elementos por historia: 
+o Número de historia (priorizada). 
+o Nombre de la historia. 
+o Usuario. 
+o Puntos estimados de esfuerzo. 
+o Descripción de la historia de usuario. 
+o Observaciones. 
+o Criterios de aceptación. 
+
+Es importante mantener los requisitos que definimos para el proyecto, que no sean cambiados y se trabaje sobre los mismos. 
+
+Por favor aplicar normas APA al documento y exportar a formato Word. Quiero que te tomes el tiempo que requieras para reflexionar y comprender la actividad, y que sí tienes alguna pregunta me la realices para que el documento se ajuste a los requerimientos de la actividad.
+
+
+AA5-EV01
+
+Hola chat, para la siguiente actividad me solicitan lo siguiente: 
+A partir de la revisión de las diferentes herramientas tecnológicas disponibles para la gestión de requisitos, seleccionar una para configurar los requerimientos del proyecto seleccionado. 
+Las herramientas sugeridas son las siguientes: 
+
+-Requirements Management Tool Company URL -IBM Rational DOORS IBM Rational ibm.com/es-es/products/requirements-management 
+-Visure Requirements Visure Solutions visuresolutions.com/es/herramienta-ingeniera-requisitos/ 
+-Reqtify Dassault Systèmes claytex.com/products/reqtify 
+-Jama Jama Software jamasoftware.com -Accept 360 Accept Software technologyevaluation.com/solutions/17078/accept360 
+-Gatherspace Gatherspace gatherspace.com/project-management-software-solutions/ 
+-RequisitePro IBM Rational ibm.com/support/pages/rational-requisitepro-713 
+
+Debo seleccionar una herramienta, Redactar un documento donde describa la herramienta a utilizar y colocar los pantallazos de la configuración. 
+
+Requiero de tu ayuda para identificar la herramienta que mejor me permita desarrollar la actividad, que sea gratuita y que me indiques cómo la puedo configurar para revisar los requisitos del proyecto. En caso de que en las herramientas listadas no haya una gratuita por favor indicar una herramienta similar que me permita desarrollar la actividad sin acarrear costos.
+
+AA5-EV02
+
+Parte A
+
+Vamos con la siguiente actividad: Teniendo en cuenta las características de las técnicas de validación de requisitos abordadas en la actividad de aprendizaje, construir los prototipos del sistema. 
+Elementos a tener en cuenta en el documento técnico de validación 
+● Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, alcance, lista de requerimientos y versión del documento. 
+● Deberá seleccionar cuatro (4) historias de usuario o requisitos del proyecto SISTEMA DE GESTIÓN DE PEDIDOS PARA RESTAURANTES para representarlos por medio de prototipos. 
+● Para la construcción de prototipos deberá usar una de las herramientas de acceso gratuito y exportar dichos elementos desarrollados como imágenes para ser incluidos dentro del documento 
+Antes de empezar con el desarrollo de la actividad, cuáles consideras que son los requisitos que más fácil se podrían representar en los prototipos?
+
+Parte B
+Sigamos con esto: Por cada interfaz de prototipo desarrollada deberá construir un caso de prueba el cual debe tener los siguientes elementos. o Objetivo del caso de prueba. o Identificador. o Nombre del requerimiento o historia de usuario asociada. o Precondiciones. o Lista de pasos con los resultados esperados.
+
+
+
+GA1-220501093-AA1-EV04
+
+Hola, vamos a la siguiente actividad: Teniendo en cuenta la información recopilada y la idea de proyecto SISTEMA DE GESTIÓN DE PEDIDOS PARA RESTAURANTES, realizar un informe donde se describa y justifique la metodología de desarrollo de software a utilizar. 
+
+Elementos a tener en cuenta: 
+-Se deben seguir las normas básicas de presentación de un documento escrito, es decir el documento debe tener como mínimo una portada, introducción, desarrollo y bibliografía. 
+
+-El informe debe evidenciar una justificación clara de la selección de la metodología respecto al proyecto a desarrollar. 
+
+-Debe incluir una descripción del contexto y características del proyecto. 
+
+-El informe debe evidenciar el uso de filtros tales como tamaño del proyecto, periodicidad de realimentación con el cliente, estado de la tecnología, etc. 
+
+Cuál metodología de desarrollo de software recomendarías para este proyecto?
+
+
