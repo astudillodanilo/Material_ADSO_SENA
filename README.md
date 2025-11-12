@@ -25,7 +25,7 @@ Puedes complementar estos materiales con la serie de videos explicativos disponi
 
 📺 **Playlist:**  
 - **Fase de Análisis**
-[🔗 Ver en YouTube](https://youtube.com/playlist?list=PLf_F__X19wkBWgWU1mqn-6mlNKhdLQ6uf&si=S-BQ_gPhSoJUDknU)
+[🔗 Ver en YouTube](https://)
 
 En esta lista encontrarás explicaciones paso a paso, ejemplos y demostraciones de herramientas de desarrollo utilizadas en la fase de análisis.
 
